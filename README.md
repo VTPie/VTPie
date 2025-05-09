@@ -1,12 +1,10 @@
+![Phong](https://github.com/user-attachments/assets/32b694bb-d836-4aad-86a7-8113939988ee)
 
 <div align="center">
-  <p>Write something</p>
-  <a href="mailto:thanhphongvo210901@gmail.com" text-decoration="none">
-    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me">
-  </a>
-  <a href="https://www.linkedin.com/in/thanh-phong-vo/" text-decoration="none">
-    <img src="https://img.shields.io/badge/Visit%20My%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=logmein&logoColor=white" alt="Visit my LinkedIn">
-  </a>
+  <p>
+    I am a Full-stack Developer with 2 years of experience in web application development.<br>
+    I constantly strive to enhance my skills and create value for the company through my work. I actively seek opportunities to work on challenging projects to expand my skill set and push my limits.<br>
+    In the coming years, my goal is to become a highly skilled web developer capable of delivering high-quality, scalable solutions.</p>
 </div>
 <h2 align="center">🚀&nbsp;My Technology Stack&nbsp;🚀</h2>
 <div align="center">
@@ -36,5 +34,6 @@
 
 <h2 align="center">🚀&nbsp;My Streak Stats&nbsp;🚀</h2>
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=VTPie&theme=dark" alt="GitHub Streak" /></a>
+    <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=VTPie&theme=dark" alt="GitHub Streak" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VTPie&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </div>
