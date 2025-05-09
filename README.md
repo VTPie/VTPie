@@ -1,10 +1,10 @@
 
 <div align="center">
   <p>Write something</p>
-  <a href="mailto:thanhphongvo210901@gmail.com" style="text-decoration: none;">
+  <a href="mailto:thanhphongvo210901@gmail.com" text-decoration="none">
     <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me">
   </a>
-  <a href="https://www.linkedin.com/in/thanh-phong-vo/" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/thanh-phong-vo/" text-decoration="none">
     <img src="https://img.shields.io/badge/Visit%20My%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=logmein&logoColor=white" alt="Visit my LinkedIn">
   </a>
 </div>
