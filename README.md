@@ -35,5 +35,8 @@
 <h2 align="center">🚀&nbsp;My Streak Stats&nbsp;🚀</h2>
 <div align="center">
     <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=VTPie&theme=dark" alt="GitHub Streak" />
+</div>
+<br>
+<div align="center">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VTPie&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </div>
